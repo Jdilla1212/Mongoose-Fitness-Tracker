@@ -4,7 +4,7 @@
 
 [For deployed version, click me](https://polar-bastion-88499.herokuapp.com/)
 
-![Image of DEMO application](https://github.com/Jdilla1212/Mongoose-Fitness-Tracker/tree/main/public/image/Capture.PNG) 
+![Image of DEMO application](https://github.com/Jdilla1212/Mongoose-Fitness-Tracker/blob/main/public/images/Capture.PNG) 
 
 <br>
 
